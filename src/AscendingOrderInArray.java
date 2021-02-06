@@ -1,6 +1,9 @@
 
 
 public class AscendingOrderInArray {
+	public void method() {
+System.out.println("asdasda");
+	}
 	public static void main(String[] args) {
 		int a[] = { 20, 40, 70, 30, 50 };
 		for (int i = 0; i < a.length; i++) {
